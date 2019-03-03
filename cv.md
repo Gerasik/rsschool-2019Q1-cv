@@ -24,6 +24,11 @@ I really like to learn and learn something new. I have experience of working in 
 
 Link to some of my work: [github.com/Gerasik](https://github.com/Gerasik)
 
+## Work Experience
+
+* LWO, March 2018 – present, Minsk, Software engineer. Database administration Oracle. Loaded and transfered data using Oracle.
+* BelEZ, August 2018 – March 2018, Minsk, Design engineer. Preparation of technical documentation and maintenance of automatic fire alarm systems.
+
 ## Education
 
 - University: Belarusian State University of Informatics and Radioelectronics
