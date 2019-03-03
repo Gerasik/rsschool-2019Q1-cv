@@ -1,6 +1,6 @@
-Yauheni Herasimenka
+## Yauheni Herasimenka
 
-Contacts 
+# Contacts 
 
 Phone nubmer: +375298210712
 e-mail: gerasik1992@gmail.com
@@ -8,29 +8,29 @@ skype: gerasim_jordon
 telegram: [Gerasiks-telegram](https://t.me/Gerasiks)
 github: [Gerasik-github](https://github.com/Gerasik)
 
-Summary
+# Summary
 
 The graduated developer with a strong technical background. 
 I really like to learn and learn something new. I have experience of working in graphic editors. I have good analytical skills. I am think if I have an opportunity I will be useful employee for the company.
 
-Skills 
+# Skills 
 
 Software development: HTML5, CSS3, JavaScript, SQL, Oracle
 Project management tools: Github, Redmine
 Engineering 3d modeling:	Solid Works, AutoCAD
 Graphic editors: Adobe Photoshop, Adobe Illustrator
 
-Code Examples
+# Code Examples
 
 Link to some of my work: [github.com/Gerasik](https://github.com/Gerasik)
 
-Education
+# Education
 
 University: Belarusian State University of Informatics and Radioelectronics
 Faculty: Computer Design
 Speciality: Electronic Security Systems
 
-English Skills
+# English Skills
 
 Streamline
 Elementary (A2)
