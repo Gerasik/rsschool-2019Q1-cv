@@ -115,6 +115,7 @@ section{
     display: inline-block;
     padding-bottom: 10px;
     font-size: 1.3em;
+    font-style: normal;
 }
 
 .contacts__item a{
@@ -150,11 +151,17 @@ section{
 }
 
 .social__item:hover{
-    background-color: #92ec6e77;
+    background-color: #3594E622;
+     
 }
 
 .social__item a{
     color: #3594E6;
+    transition: color 0.7s ease-in-out;
+}
+
+.social__item:hover a{
+    color: #02bca2;
 }
 
 /* main */
