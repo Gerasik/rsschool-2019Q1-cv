@@ -7,8 +7,8 @@
     <link rel="stylesheet" href="./style.css">
     <title>Herasimenka Yauheni</title>
 </head>
-<body>
-    <header class="about-me" itemscope itemtype="http://schema.org/Person">
+<body itemscope itemtype="http://schema.org/Person">
+    <header class="about-me">
         <picture class="about-me__picture">
             <img src="./assets/img/me.jpg" alt="photo Yauheni Herasimenka" width='330' itemprop="image">
         </picture>
@@ -54,7 +54,7 @@
             <p><strong>LWO, March 2018</strong> – present, Minsk, Software engineer. Database administration Oracle. Loaded and transfered data using Oracle.</p>
             <p><strong>BelEZ, August 2018</strong> – March 2018, Minsk, Design engineer. Preparation of technical documentation and maintenance of automatic fire alarm systems.</p> 
         </section> 
-        <section class="education">            
+        <section class="education" itemprop="alumniOf" itemscope itemtype="http://schema.org/OrganizationRole">            
             <h2>Education</h2> 
             <div class="education__content">                      
                 <ul>
@@ -63,7 +63,7 @@
                     <li><strong>Speciality:</strong></li>
                 </ul>
                 <ul>
-                    <li>Belarusian State University of Informatics and Radioelectronics</li>
+                    <li itemprop="name">Belarusian State University of Informatics and Radioelectronics</li>
                     <li>Computer Design</li>
                     <li>Electronic Security Systems</li>
                 </ul>
